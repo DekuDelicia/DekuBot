@@ -22,8 +22,8 @@ const config = {
     instagram: 'OFF',
     nomer: '',
     aktif: '24 JAM',
-    youtube: 'https://youtube.com/channel/UCRaC-6JyCW_iqbW1DbuXVxQ',
-    whatsapp: 'https://chat.whatsapp.com/KTlC0MXi3WJChdQeps5flt',
+    youtube: 'https://www.youtube.com/channel/UCcpJ-xIv-u3I25Z5UkZtOzQ',
+    whatsapp: 'https://chat.whatsapp.com/JVNNcUNecL42hJOo2QkEkW',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
